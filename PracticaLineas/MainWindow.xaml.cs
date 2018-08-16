@@ -61,7 +61,14 @@ namespace PracticaLineas
             plnLinea7.Points.Add(new Point(320.0, 145.0));
             plnLinea7.Points.Add(new Point(360.0, 145.0));
 
-
+            //Arbol
+            plnLinea8.Points.Add(new Point(500.0, 225.0));
+            plnLinea8.Points.Add(new Point(500.0, 125.0));
+            plnLinea8.Points.Add(new Point(450.0, 85.0));
+            plnLinea8.Points.Add(new Point(530.0, 35.0));
+            plnLinea8.Points.Add(new Point(600.0, 85.0));
+            plnLinea8.Points.Add(new Point(530.0, 125.0));
+            plnLinea8.Points.Add(new Point(530.0, 225.0));
         }
     }
 }

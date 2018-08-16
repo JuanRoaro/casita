@@ -14,5 +14,6 @@
         <Polyline Name="plnLinea5" StrokeThickness="4" Stroke="CornflowerBlue"/>
         <Polyline Name="plnLinea6" StrokeThickness="4" Stroke="CornflowerBlue"/>
         <Polyline Name="plnLinea7" StrokeThickness="4" Stroke="CornflowerBlue"/>
+        <Polyline Name="plnLinea8" StrokeThickness="4" Stroke="CornflowerBlue"/>
     </Grid>
 </Window>
